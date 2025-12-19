@@ -7,7 +7,7 @@ All problems are solved using clear logic, structured code, and correct implemen
 
 📂 Project Structure
 All assignment programs are organized inside a structured folder:
-Gagan_kumar_438_internship_assignment_3/
+Gagan_kumar_438_internship_assignment_2/
 ├── 1_defanging_ip_address.py
 ├── 2_even_digits.py
 ├── 3_good_pairs.py
